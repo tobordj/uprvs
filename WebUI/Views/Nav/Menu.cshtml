@@ -1,0 +1,17 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "УПР: все товары";
+
+}
+
+
+ @Html.ActionLink("111111 ", "Shop", "Product") 
+
+
+
+
+@foreach (var link in Model)
+{
+    @Html.RouteLink(link, new  {  controller = "Product",   action = "Shop",  categtw = link,  page = 1  })
+
+}

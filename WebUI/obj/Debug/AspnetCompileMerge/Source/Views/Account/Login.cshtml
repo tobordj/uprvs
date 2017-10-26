@@ -1,0 +1,69 @@
+﻿@model uh365898_db.WebUI.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Вход в систему";
+    Layout = "~/Views/Shared/_AccountLayout.cshtml";
+}
+
+
+<fieldset>
+@using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+     @Html.ValidationSummary(true) 
+        <div class="form-group">
+            <div class="input-prepend" title="Введите логин" data-rel="tooltip">
+
+                @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", @placeholder = "Логин" })
+                <div class="col-md-10">
+                    @Html.ValidationMessageFor(m => m.UserName)
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="input-prepend" title="Введите пароль" data-rel="tooltip">
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Пароль" })
+                <div class="col-md-10">
+                    @Html.ValidationMessageFor(m => m.Password)
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <p class="center span5">
+                    <button type="submit" class="btn btn-primary">Войти</button>
+                </p>
+            </div>
+        </div>
+}
+</fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

@@ -1,0 +1,15 @@
+﻿@model uh365898_db.Domain.Entities.Cart
+
+
+
+
+    
+        <p class="shopcart">
+            <a href="@Url.Content("~/Cart/Index?returnUrl=%2F") "></a>
+            <span>
+            @Html.ActionLink("Корзина", "Index", "Cart", new { returnUrl = Request.Url.PathAndQuery }, null)  </span>
+            <a>(@Model.Lines.Sum(x => x.Quantity))</a>
+
+</p>
+   
+    

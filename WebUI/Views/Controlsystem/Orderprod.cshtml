@@ -1,0 +1,32 @@
+﻿@model uh365898_db.WebUI.Models.ShippingsOrderViewModel
+
+    @{
+        ViewBag.Title = "Заказы" ;
+        Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+    }
+
+ <h1>Заказ №@Model.Order.ShippingShippingID</h1>
+<dl>
+    <dt>Название</dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.Shipping.Name)
+    </dd>
+
+    <dt>Тренер</dt>
+    <dd>
+        @Html.DisplayFor(model => model.Shipping.Address)
+    </dd>
+
+    <dt>Перечень товара</dt>
+
+    <dd>
+        <ul>
+            @foreach (var  order in Model.Shipping.Orders)
+            {
+                <li>@order.Prodname (@order.Total)</li>
+            }
+        </ul>
+    </dd>
+</dl>
+</div>

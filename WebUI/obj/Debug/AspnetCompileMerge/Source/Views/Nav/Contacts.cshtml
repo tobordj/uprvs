@@ -1,0 +1,111 @@
+﻿@model uh365898_db.Domain.Entities.Offer
+@using BotDetect.Web.UI.Mvc;
+@{
+    ViewBag.Title = "УПР: Контакты";
+}
+
+<!--content -->
+<!--page_container-->
+
+  
+   
+           <div class="row-fluid">
+    <div class="span12">
+        <div class="stepmenu">
+            <ul class="breadcrumb">
+                <li><a href="~/">Главная </a><span class="divider">/</span></li>
+                <li class="active"> Контакты и обратная связь</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                
+    
+       
+           
+            
+                <div class="row-fluid">
+                    <div class="span5">
+
+                        <div class="social-box">
+                            <div class="header"><span class="icon32  icon-arrowstop-e"></span>Контакты</div>
+                        </div>
+
+                        <div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2564.952126444085!2d36.239961449999996!3d49.993506999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a0ee64505485%3A0x640046d4f991282!2z0LLRg9C7LiDQlNC10LzRh9C10L3QutCwLCA4LCDQpdCw0YDQutGW0LIsINCl0LDRgNC60ZbQstGB0YzQutCwINC-0LHQu9Cw0YHRgtGM!5e0!3m2!1sru!2sua!4v1410823539489" width="780" height="321" frameborder="0" style="border:0"></iframe> </div>
+                        <dl class="dl-foot">
+                            <dt><span title="Адрес" class="icon32 icon-darkgray icon-home">​</span></dt>
+                            <dd>61002, Украина, г.Харьков,</dd>
+                            <dd> ул.Демченко 8,к.3</dd>
+                            <dt><span title="E-mail" class="icon32 icon-darkgray icon-envelope-closed">​</span>​</dt>
+                            <dd> upr_kharkiv@ukr.net</dd>
+                            <dd> upr_kharkiv@mail.ru</dd>
+                            <dd> mail@upr.kharkiv.com </dd>
+                            <dt><span title="Телефон" class="icon32 icon-darkgray icon-rssfeed">​</span>​</dt>
+                            <dd> +38 (067) 575-06-85</dd>
+                            <dd> +38 (057) 719-11-65</dd>
+                            <dt>​<span title="Факс" class="icon32 icon-darkgray icon-print">​</span>​</dt>
+                            <dd> +38 (057) 706-19-13</dd>
+                            <dt>​<span title="Время работы" class="icon32 icon-darkgray icon-date">​</span>​</dt>
+                            <dd> С 9:00 до 18:00, понедельник – пятница.</dd>
+
+                        </dl>
+                    </div>
+
+                    <div class="span7">
+
+                        <div class="social-box">
+                            <div class="header"><span class="icon32  icon-arrowstop-e"></span>Форма обратная связь</div>
+                        </div>
+                        <div class="contact_form">
+                            @using (Html.BeginForm("Contacts", "Nav", FormMethod.Post, new { enctype = "multipart/form-data", @placeholder = "Текст сообщения" }))
+                            {
+                                @Html.ValidationSummary()
+                              @Html.AntiForgeryToken() 
+                                <div id="note"></div>
+
+                                <div id="fields">
+                                    <form id="ajax-contact-form">
+
+                                        @if (TempData["message"] != null)
+                                        {
+                                            <div class="alert alert-info"><p>@TempData["message"]</p></div>
+                                        }
+
+
+
+                                        @Html.TextBoxFor(x => x.Name, new { @class = "span7", @type = "text", @placeholder = "Ваше имя" })
+                                        @Html.TextBoxFor(x => x.Phone, new { @class = "span7", @type = "tel", @placeholder = "Ваш телефон" })
+                                        @Html.TextBoxFor(x => x.Email, new { @class = "span7", @type = "email", @placeholder = "Ваш email" })
+                                        @Html.TextBoxFor(x => x.Title, new { @class = "span7", @type = "text", @placeholder = "Тема сообщения" })
+                                        <div class="controls">​ @Html.EditorFor(x => x.Description) </div>
+
+
+                                        <div class="wrapper"><span>Загрузка файла:</span><p><input type="file" name="Image" /> </p></div> <br>
+                                        <div class="clear"></div>
+                                        @{ MvcCaptcha sampleCaptcha = new MvcCaptcha("SampleCaptcha"); }
+                                        <div class="clear"><br></div>
+                                        @Html.Captcha(sampleCaptcha)
+                                        <div class="clear"><br></div>
+                                        @Html.TextBox("CaptchaCode")
+                                        <div class="clear"></div>
+                                        <div class="clear"></div>
+                                        <div class="clear">&nbsp;</div>
+                                        <input type="reset" class="btn btn-inverse" value="Очистить форму" style="text-transform: none !important;" />
+                                        <input class="btn btn-success" type="submit" value="Отправить" style="text-transform: none !important;" />
+                                    </form>
+
+
+
+
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+          

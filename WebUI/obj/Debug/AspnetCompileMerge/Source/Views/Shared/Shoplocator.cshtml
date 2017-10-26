@@ -1,0 +1,70 @@
+﻿@model uh365898_db.Domain.Entities.Product
+
+@{
+    ViewBag.Title = "УПР: все товары";
+
+}
+
+
+
+
+
+
+
+<div class="col_1_of_single1 span_1_of_single1" style="margin-left: 15px;  height:340px;">
+    <div class="product_item">
+
+        @if (Model.ImageData != null)
+        {
+            <div class="hover_img">
+
+                <a href="@Url.Action("Store", new { Model.ProductID })"><p style="text-align: center;"><img style="align-content:center" width="150" height="150" src="@Url.Action("GetImage", "Product", new { Model.ProductID })" alt="" /></p></a>
+
+            </div>
+        }
+        else
+        {
+            
+                <div class="hover_img">
+                    <a href="@Url.Action("Store", new { Model.ProductID })"><p style="text-align: center;"><img style="align-content:center" width="150" height="150" src="~/Content/themes/img/no_image.jpg" alt="" /></p></a>
+                </div>
+           
+        }
+
+
+        <div class="item_description">
+            <div class="descr">
+
+                <h5>@Html.ActionLink(Model.Name, "Store", new { Model.ProductID })</h5>
+                <div class="a7">
+                    @Model.Description
+
+                </div>
+
+            </div>
+        </div>
+        <div class="item_description">
+            <div class="row-fluid">
+                <div class="span4">
+                    <div class="a7">@Model.Price.ToString("") грн.</div>
+                </div>
+                <div class="span2">
+                    <a href="@Url.Content("~/Nav/Question/")" style=""><span title="Вопрос технологу" class="icon32  icon-contacts"></span></a>
+                </div>
+                <div class="span4">
+                    @using (Html.BeginForm("AddToCart", "Cart"))
+                    {
+                        @Html.HiddenFor(x => x.ProductID)
+                        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                        <input type="submit" class="mybutton" value="Купить!">
+                    }
+
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+</div>

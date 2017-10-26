@@ -1,0 +1,18 @@
+﻿
+@model IEnumerable<string>
+@{
+    ViewBag.Title = "УПР: все товары";
+
+}
+
+
+
+
+@foreach (var link in Model)
+{
+    @Html.RouteLink(link, new { controller = "Product", action = "Shop", twocateg = link }, new
+{
+    @class = link == ViewBag.SelectedCattw ? "selected" : null
+})
+
+}

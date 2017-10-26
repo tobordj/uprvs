@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "УПР: Административная панель";
+ 
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+
+
+<div>
+    <ul class="breadcrumb">
+        <li>
+            <a href="#">Главная</a>
+        </li>       
+    </ul>
+</div>
+
+<div class="row-fluid sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+            <h2><i class="icon-calendar"></i> </h2>
+           Система управления сайтом. 
+        </div>
+        <div class="box-content">
+               Добро пожаловать в Систему управления сайтом.
+               Для ознакомления выберите раздел  "Тур по системе управления сайтом". 
+          </div>
+    </div>
+</div><!--/row-->
+
+
+<!--  <div class="row-fluid sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+            <h2><i class="icon-calendar"></i>График</h2>
+        </div>
+
+        <div class="box-content"><img src="@Url.Action("CreateChart")" /></div>
+
+        <div class="box-content"> <img src="@Url.Action("MyChart")" /></div>
+        <div class="box-content"> <img src="@Url.Action("MyChart")" /> </div>
+
+    <cc1:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+    </cc1:ToolkitScriptManager>
+    <asp:DropDownList ID="ddlCountries" runat="server" OnSelectedIndexChanged="ddlCountries_SelectedIndexChanged"
+                      AutoPostBack="true">
+    </asp:DropDownList>
+    <hr />
+    <cc1:BarChart ID="BarChart1" runat="server" ChartHeight="300" ChartWidth="450"
+                  ChartType="Column" ChartTitleColor="#0E426C" Visible="false"
+                  CategoryAxisLineColor="#D08AD9" ValueAxisLineColor="#D08AD9" BaseLineColor="#A156AB">
+    </cc1:BarChart>
+    
+</div>
+</div>  -->

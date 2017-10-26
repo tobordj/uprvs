@@ -1,0 +1,313 @@
+D:\Program\ASP\SportsStore\Domain\bin\Debug\Domain.dll
+D:\Program\ASP\SportsStore\Domain\bin\Debug\Domain.pdb
+D:\Program\ASP\SportsStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Program\ASP\SportsStore\Domain\obj\Debug\Domain.dll
+D:\Program\ASP\SportsStore\Domain\obj\Debug\Domain.pdb
+D:\Program\ASP\SportsStore\Domain\bin\Debug\Domain.dll.config
+D:\Program\ASP\SportsStore\Domain\bin\Debug\EntityFramework.dll
+D:\Program\ASP\SportsStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program\ASP\SportsStore\Domain\bin\Debug\EntityFramework.xml
+D:\Program\ASP\SportsStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program\ASP\SportsStore\Domain\bin\Debug\ru\EntityFramework.resources.dll
+D:\Program\ASP\SportsStore\Domain\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\Domain.dll.config
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\EntityFramework.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\EntityFramework.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\ru\EntityFramework.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\obj\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\obj\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\obj\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\obj\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\Domain.dll.config
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\EntityFramework.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\EntityFramework.xml
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\ru\EntityFramework.resources.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\Domain\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\ru\EntityFramework.resources.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\obj\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\obj\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\Program\ASP\Версии SportsStore\УПР сайт\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР сайт\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПРсайт\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_new\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_hosting\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Numerics.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\UprSite\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\Domain.dll.config
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\log4net.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Numerics.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\log4net.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\obj\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\obj\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Program\All\uh365898_db\Domain\bin\Debug\Domain.dll.config
+D:\Program\All\uh365898_db\Domain\bin\Debug\Domain.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\Domain.pdb
+D:\Program\All\uh365898_db\Domain\bin\Debug\EntityFramework.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\log4net.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Data.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Numerics.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Web.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Web.Mvc.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Xml.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Xml.Linq.dll
+D:\Program\All\uh365898_db\Domain\bin\Debug\EntityFramework.xml
+D:\Program\All\uh365898_db\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program\All\uh365898_db\Domain\bin\Debug\log4net.xml
+D:\Program\All\uh365898_db\Domain\bin\Debug\System.Web.Mvc.xml
+D:\Program\All\uh365898_db\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Program\All\uh365898_db\Domain\obj\Debug\Domain.dll
+D:\Program\All\uh365898_db\Domain\obj\Debug\Domain.pdb
+D:\Program\All\uh365898_db\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\Domain.dll.config
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\Domain.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\Domain.pdb
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\EntityFramework.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\log4net.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\Microsoft.CSharp.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Data.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Numerics.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Web.DataVisualization.Design.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Web.DataVisualization.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Web.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Web.Mvc.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Xml.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Xml.Linq.dll
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\EntityFramework.xml
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\log4net.xml
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\System.Web.Mvc.xml
+D:\Program\All - копия\uh365898_db\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Program\All - копия\uh365898_db\Domain\obj\Debug\Domain.dll
+D:\Program\All - копия\uh365898_db\Domain\obj\Debug\Domain.pdb
+D:\Program\All - копия\uh365898_db\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache

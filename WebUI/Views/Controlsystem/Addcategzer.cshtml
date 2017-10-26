@@ -1,0 +1,82 @@
+﻿@using uh365898_db.Domain.Concrete
+@using uh365898_db.Domain.Entities
+@model Categzer
+
+
+@{
+    ViewBag.Title = "УПР: Добавление раздела";
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+<div>
+    <ul class="breadcrumb">
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Mainpage")">Главная</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Allcategzer")">Разделы товаров</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="#"> Добавление раздела товара</a>
+        </li>
+    </ul>
+</div>
+
+<div class="row-fluid sortable ui-sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+
+            <h2><i class="icon-edit"></i> Добавление раздела товара</h2>
+        </div>
+        <div class="box-content">
+
+            @using (Html.BeginForm("Addcategzer", "Controlsystem", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+            {
+                @Html.AntiForgeryToken()
+
+
+                <fieldset>
+
+                    <div class="control-group">
+                        @Html.ValidationSummary(true)
+
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-info"><p>@TempData["message"]</p></div>
+                        }
+                    </div>
+                   
+
+
+
+                    <div class="control-group">
+                        <label class="control-label">Название </label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.Name, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+                        </div>
+                    </div>
+
+
+                    <div class="control-group">
+                        <label class="control-label">Раздел</label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.SectoneID, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+
+                        </div>
+                    </div>
+
+
+
+
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">Сохранить</button>
+                <button class="btn">@Html.ActionLink("Отмена", "Allcategzer")</button>
+            </div>
+        </fieldset>
+
+
+            }
+        </div>
+    </div>
+</div>

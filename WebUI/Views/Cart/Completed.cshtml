@@ -1,0 +1,48 @@
+﻿@model uh365898_db.Domain.Entities.Shipping
+@{
+    ViewBag.Title = "УПР: Ваш заказ принят";
+}
+
+
+
+
+<div class="row-fluid">
+    <div class="span12">
+        <div class="stepmenu">
+            <ul class="breadcrumb">
+                <li><a href="~/">Главная </a><span class="divider">/</span></li>
+                <li><a href="~/Каталог">Каталог</a><span class="divider">/</span></li>
+
+                <li class="active"> Заказ принят</li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+  
+
+    
+        <div class="row">
+            <div class="span12">
+                
+                <div class="social-box">
+                    <div class="header"><span class="icon32  icon-arrowstop-e"></span>Заказ принят</div>
+                </div>
+                <div class="a7">
+                    <br>Уважаемый(ая) <strong> @Html.DisplayFor(x => x.Name)</strong>,  Ваш  заказ <strong>
+    №@Html.DisplayFor(x => x.ShippingID)</strong> от <strong>@Html.DisplayFor(x => x.DateAdded.Date)</strong> принят.
+    <br> В ближайшее время с Вами свяжется наш менеджер.
+    <br />
+    <br />
+    <br> Если у вас возникнут вопросы, то обращайтесь по телефону:
+    <br>Моб.: +38067 575-06-85
+    <br>Моб.: +38097 515-02-45
+    <br>CDMA: +38(057)719-11-65
+    <br>Факс: +38057 719-11-65
+
+</div>
+            </div>
+
+        </div>
+   
+

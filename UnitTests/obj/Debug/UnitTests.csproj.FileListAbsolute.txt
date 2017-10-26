@@ -1,0 +1,116 @@
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\UnitTests.dll.config
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\UnitTests.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Domain.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Moq.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\WebUI.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\EntityFramework.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Web.Optimization.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Web.Http.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Ninject.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Domain.pdb
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\WebUI.pdb
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Moq.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\EntityFramework.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Web.Http.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Ninject.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\ru\EntityFramework.resources.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\ru\System.Web.Http.resources.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\Program\ASP\SportsStore\UnitTests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Program\ASP\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Program\ASP\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+D:\Program\ASP\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\UnitTests.dll.config
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\UnitTests.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Domain.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Moq.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\WebUI.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\EntityFramework.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Web.Optimization.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Web.Http.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Ninject.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Domain.pdb
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\WebUI.pdb
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Moq.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\EntityFramework.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Web.Http.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Ninject.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\ru\EntityFramework.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\ru\System.Web.Http.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Program\ASP\Версии SportsStore\Добавляем фидбек\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+D:\Program\ASP\Версии SportsStore\УПР сайт\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\obj\Debug\UnitTests.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\obj\Debug\UnitTests.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\UnitTests.dll.config
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\UnitTests.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\UnitTests.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Moq.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\WebUI.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Moveax.Mvc.ErrorHandler.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Optimization.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Http.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Ninject.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Helpers.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\BotDetect.Web.UI.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.WebPages.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Razor.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\BotDetect.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\WebUI.pdb
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Moq.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Optimization.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Http.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Ninject.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Helpers.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.WebPages.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.Razor.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.Http.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт__\UprSite\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Program\All\uh365898_db\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Program\All\uh365898_db\UnitTests\obj\Debug\UnitTests.dll
+D:\Program\All\uh365898_db\UnitTests\obj\Debug\UnitTests.pdb
+D:\Program\All - копия\uh365898_db\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Program\All - копия\uh365898_db\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+ERROR 2015-06-16 00:43:48,239   439ms ProductController      List               - Просмотр главной странцы
+ERROR 2015-06-16 00:43:58,844 11044ms NavController          Contacts           - Просмотр форма Контакты
+ERROR 2015-06-16 00:44:01,577 13777ms NavController          Question           - Просмотр формы Вопрос технологу
+ERROR 2015-06-16 00:44:02,848 15048ms NavController          AboutUs            - Просмотр форма Про нас
+ERROR 2015-06-16 00:45:24,208   684ms ProductController      List               - Просмотр главной странцы
+ERROR 2015-06-16 00:45:35,187 11663ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2015-06-16 00:45:35,513 11989ms ProductController      Showgood           - Просмотр товара №
+ERROR 2015-06-16 00:45:39,815 16291ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2015-06-16 00:45:39,835 16311ms ProductController      Showgood           - Просмотр товара №
+ERROR 2015-06-16 00:47:09,137 105614ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2015-06-16 00:47:09,164 105640ms ProductController      Showgood           - Просмотр товара №
+ERROR 2015-06-16 00:47:15,711 112187ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2015-06-16 00:47:15,731 112207ms ProductController      Showgood           - Просмотр товара №
+ERROR 2015-06-16 00:47:21,905 118381ms NavController          Question           - Просмотр формы Вопрос технологу

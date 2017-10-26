@@ -1,0 +1,222 @@
+﻿@using uh365898_db.Domain.Concrete
+@using  uh365898_db.Domain.Entities
+@model Product
+
+
+@{
+    ViewBag.Title = "УПР: Добавление товара";
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+<div>
+    <ul class="breadcrumb">
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Mainpage")">Главная</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Goods")">Каталог товаров</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="#"> Добавление товара</a>
+        </li>
+    </ul>
+</div>
+
+<div class="row-fluid sortable ui-sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+
+            <h2><i class="icon-edit"></i> Добавление товара</h2>
+        </div>
+        <div class="box-content">
+
+            @using (Html.BeginForm("Create", "Controlsystem", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+            {
+                @Html.AntiForgeryToken()
+
+
+                <fieldset>
+
+                    <div class="control-group">
+                        @Html.ValidationSummary(true)
+
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-info"><p>@TempData["message"]</p></div>
+                        }
+                    </div>
+                    @Html.HiddenFor(x => x.ProductID)
+
+
+
+
+                    <div class="control-group">
+                        <label class="control-label">Название </label>
+                        <div class="controls">
+                            @Html.EditorFor(model => model.Name, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+                        </div>
+                    </div>
+
+
+                    <div class="control-group">
+                        <label class="control-label">Раздел</label>
+                        <div class="controls">
+
+                            @Html.DropDownList("CategzerID", String.Empty)
+
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="control-group">
+                        <label class="control-label">Категория </label>
+                        <div class="controls">
+
+                            @Html.DropDownList("CategoneID", String.Empty)
+
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Подкатегория </label>
+                        <div class="controls">
+
+                            @Html.DropDownList("CategtwID", String.Empty)
+
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Производитель</label>
+                        <div class="controls">
+
+                            @Html.DropDownList("ProducerID", String.Empty)
+
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Упаковка</label>
+                        <div class="controls">
+
+                            @Html.DropDownList("PackingID", String.Empty)
+
+                        </div>
+                    </div>
+
+
+
+                    <div class="control-group">
+                        <label class="control-label"> URL адрес </label>
+                        <div class="controls">
+
+                            @Html.EditorFor(model => model.ImgUrl)
+
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Код 1C</label>
+                        <div class="controls">
+
+                            @Html.EditorFor(model => model.ProdcodeID, new { @min = "1" })
+
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Цена </label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.Price)
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Рекомендуем</label>
+                        <div class="controls">​@Html.CheckBoxFor(x => x.Recomend)</div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label">Краткое описание</label>
+                        <div class="controls">​@Html.EditorFor(x => x.Description, new { @class = "span7" })</div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label" for="textarea2">Полное описание</label>
+                        <div class="controls">​@Html.TextArea("Alldescription", new { @class = "cleditor", @id = "textarea2", @rows = "3" })</div>
+                       
+                    </div>
+
+
+                    <div class="control-group">
+                        <label class="control-label">Технические характеристики</label>
+                        <div class="controls">
+                            @{
+                        List<Techcharacter> techchar = ViewBag.Techcharacters;
+                        foreach (Techcharacter c in techchar)
+                        {
+                           
+                            <input type="checkbox" name="selectedTechcharacters" value="@c.TechcharacterID"
+                                   @(Model.Techcharacters.Contains(c) ? "checked=\"checked\"" : "") />@c.Name <br />
+                        }
+                            }
+
+                        </div>
+                    </div>
+
+
+                    <div class="control-group">
+                        <label class="control-label">Применение</label>
+                        <div class="controls">
+                            @{
+                        List<Applying> applying = ViewBag.Applyings;
+                        foreach (Applying c in applying)
+                        {
+                            <input  type="checkbox" name="selectedApplyings" value="@c.ApplyingID"
+                                   @(Model.Applyings.Contains(c) ? "checked=\"checked\"" : "") />@c.Name   <br />
+                        }
+                            }
+
+                        </div>
+                    </div>
+
+
+                    <div class="control-group">
+                        <label class="control-label">Свойства</label>
+                        <div class="controls">
+                            @{
+                        List<Proper> proper = ViewBag.Propers;
+                        foreach (Proper c in proper)
+                        {
+                              <input type="checkbox" name="selectedPropertys" value="@c.ProperID"
+                                       @(Model.Propers.Contains(c) ? "checked=\" checked\"": "" ) />@c.Name   <br />
+
+                        }
+                            }
+
+                    </div>
+
+            </div>
+
+                    
+
+                <div class="control-group">
+                    <label class="control-label">Загрузка файла</label>
+                    <div class="controls">
+                        <input type="file" name="Image" />
+                    </div>
+                </div>
+
+
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">Сохранить</button>
+                    <button class="btn">@Html.ActionLink("Отмена", "Create")</button>
+                </div>
+                </fieldset>
+
+
+            }
+        </div>
+    </div>
+</div>

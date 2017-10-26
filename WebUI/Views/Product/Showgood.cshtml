@@ -1,0 +1,61 @@
+﻿@using uh365898_db.Domain.Concrete
+@using uh365898_db.Domain.Entities
+@using uh365898_db.WebUI.Models
+
+@model   IEnumerable<uh365898_db.Domain.Entities.Product>
+
+
+
+
+<div class="row-fluid">
+
+
+    <table id="example" class="display nowrap" cellspacing="0" width="95%">
+        <thead>
+            <tr>
+                <th>Сортировать по:</th>
+                <th>Название</th>
+                <th>Цена</th>
+                <th></th>
+            </tr>
+        </thead>
+
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td width="5%">
+                        @if (item.ImageData != null)
+                        {
+
+                            <a href="@Url.Action("Store", new { item.ProductID })"><img width="155" height="155" src="@Url.Action("GetImage", "Product", new { item.ProductID })" /></a>
+
+                        }
+                        else
+                        {
+
+                            <a href="@Url.Action("Store", new { item.ProductID })"><p style="text-align: center;"><img style="align-content:center" width="150" height="150" src="~/Content/themes/img/no_image.jpg" alt="" /></p></a>
+
+                        }
+                    </td>
+                    <td>
+                        <p class="shopname">@Html.ActionLink(item.Name, "Store", new { item.ProductID })</p>
+                        <p class="shopdescr">@item.Description</p>
+                        
+                        <p class="shopproducer"><span>Производитель:</span> @item.Producer.Name</p>
+                    </td>
+                    <td style="float:left">
+                        <p class="shopprice">@String.Format("{0:F}", item.Price) </p>
+                        @{Html.RenderAction("Prodcart", "Product", new { item.ProductID });}
+                        <p class="shopque"><a href="@Url.Content("~/Nav/Question/")" style=""><span title="Вопрос технологу" class="icon32  icon-contacts"></span></a></p>
+                    </td>
+                    <td width="5%"> </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+</div>

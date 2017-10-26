@@ -1,0 +1,112 @@
+﻿@model   IEnumerable<uh365898_db.Domain.Entities.Product>
+
+
+@{
+    ViewBag.Title = "УПР: Материалы";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="row-fluid">
+    <div class="span3">
+        <section class="sky-form">
+            <h4>Occasion</h4>
+            <div class="row row1 scroll-pane">
+                <div class="col col-4">
+                    <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i></i>Athletic (20)</label>
+                </div>
+                <div class="col col-4">
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Athletic Shoes (48)</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Casual (45)</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Casual (45)</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Other (1)</label>
+                </div>
+            </div>
+            <h4>Category</h4>
+            <div class="row row1 scroll-pane">
+                <div class="col col-4">
+                    <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i></i>Flats (70)</label>
+                </div>
+                <div class="col col-4">
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Athletic Shoes (48)</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Athletic Shoes (48)</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Heels (38)</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Other (1)</label>
+                </div>
+            </div>
+
+        </section>
+        <section class="sky-form">
+            <h4>Brand</h4>
+            <div class="row row1 scroll-pane">
+                <div class="col col-4">
+                    <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i></i>Adidas by Stella McCartney</label>
+                </div>
+                <div class="col col-4">
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Asics</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Bloch</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Bloch Kids</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Capezio</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Capezio Kids</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Nike</label>
+                    <label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Zumba</label>
+                </div>
+            </div>
+
+            @{ Html.RenderAction("Menu", "Nav"); }
+        </section>
+
+    </div>
+    <div class="span9">
+
+
+        <div class="row-fluid">
+                <div class="section">
+                                     
+
+
+                    <table id="example" class="display" cellspacing="0" width="100%">
+                        <thead>
+                            <tr>
+                                <th scope="col">111</th>
+                                <th scope="col">888 </th>
+                                <th scope="col">222</th>
+                                <th scope="col">333</th>
+                                <th scope="col">44</th>
+
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                            <tr>
+                                <td>
+
+                                    @if (item.ImageData != null)
+                                        {
+
+                                        <a href="@Url.Action("Store", new { item.ProductID })"><img width="55" height="55" src="@Url.Action("GetImage", "Product", new { item.ProductID })" /></a>
+
+                                        }
+                                </td>
+
+                                <td>@Html.ActionLink(item.Name, "Store", new { item.ProductID })</td>
+                                <td class="align-center">@Html.ActionLink(item.Producer.Name, "Store", new { item.Producer.Name })</td>
+
+                                <td class="align-center">@item.Description</td>
+                                <td class="NumericCol">@String.Format("{0:F}", item.Price)</td>
+                            </tr>
+                            }
+                        </tbody>
+                    </table>
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+

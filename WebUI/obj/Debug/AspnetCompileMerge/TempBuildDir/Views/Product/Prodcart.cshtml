@@ -1,0 +1,12 @@
+﻿@model uh365898_db.Domain.Entities.Product
+
+
+
+    @using (Html.BeginForm("AddToCart", "Cart"))
+    {
+        @Html.HiddenFor(x => x.ProductID)
+        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+        <input type="submit" class="mybutton" value="Заказать!">
+    }
+
+

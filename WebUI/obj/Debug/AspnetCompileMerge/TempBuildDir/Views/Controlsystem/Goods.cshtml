@@ -1,0 +1,112 @@
+﻿@model   IEnumerable<uh365898_db.Domain.Entities.Product>
+
+@{
+    ViewBag.Title = "Административная панель: все товары";
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+<div>
+    <ul class="breadcrumb">
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Mainpage")">Главная</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="#">Каталог товаров</a>
+        </li>
+    </ul>
+</div>
+
+<div class="row-fluid sortable ui-sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+            <h2><i class="icon-th-list"></i> &nbsp; Управление каталогом товаров</h2>
+           
+        </div>
+       
+
+            <div class="box-content">
+                       
+
+                    <div class="control-group">
+                     
+                        @Html.ValidationSummary(true)
+
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-info"><p>@TempData["message"]</p></div>
+                        }
+                        
+                        <a class="btn" href="@Url.Action("Create", "Controlsystem")"><i class="icon-plus"></i> Добавить товар</a>
+                    </div>
+
+
+
+                    <table class="table table-striped table-bordered bootstrap-datatable datatable">
+                        <thead>
+                            <tr>
+                                <th scope="col">Код 1С</th>
+                                <th scope="col">Название </th>
+                                <th scope="col">Раздел</th>
+                                <th scope="col">Категория</th>
+                                <th scope="col">Подкатегория</th>
+                                <th scope="col">Производитель</th>
+                                <th scope="col">Упаковка</th>
+                                <th scope="col">Цена</th>
+                                <th scope="col">Рек.</th>
+                                <th scope="col">Фото</th>
+                                <th scope="col"></th>
+                            </tr>
+                        </thead>
+
+
+                        <tbody>
+              @foreach (var item in Model)
+                {
+                <tr>
+                    <td class="align-center">@item.ProdcodeID</td>
+
+                    <td>
+
+                        @Html.ActionLink(item.Name, "Detailgood", new { item.ProductID, min = "1" })
+                        &nbsp;&nbsp;
+                        <a class="btn  btn-mini" href="@Url.Action("Edit", new { item.ProductID })"><span title="Редактировать товар" class="icon icon-blue icon-pin" /></a>
+
+                    </td>
+                    <td class="align-center">@item.Categzer.Name</td>
+
+                    <td class="align-center">@item.Categone.Name</td>
+                    <td class="align-center">@if (item.Categtw != null)
+                            {@item.Categtw.Name} </td>
+                    <td class="align-center">@item.Producer.Name</td>
+                    <td class="align-center">@item.Packing.Name @item.Packing.Measure</td>
+                    <td class="NumericCol">@String.Format("{0:F}", item.Price)</td>
+                    <td class="NumericCol">
+                        @if (item.Recomend ==true) {<input checked="checked" id="Recomend" name="Recomend" type="checkbox" value="true" />}
+                       else {<input name="Recomend" type="hidden" value="false" />}
+                    </td>
+                    <td>
+
+                        @if (item.ImageData != null)
+                            {
+
+                            <img width="55" height="55" src="@Url.Action("GetImage", "Product", new { item.ProductID })" />
+
+                            }
+                    </td>
+
+                    <td>
+                       
+    @using (Html.BeginForm("Delete", "Controlsystem"))
+    {
+        @Html.Hidden("ProductID", item.ProductID)  <button class="btn btn-mini btn-danger" type="submit"><i class="icon-remove icon-white"></i></button>                }
+</td>
+                </tr>
+                }
+                        </tbody>
+                    </table>
+
+              
+    </div>
+</div>
+</div>
+       

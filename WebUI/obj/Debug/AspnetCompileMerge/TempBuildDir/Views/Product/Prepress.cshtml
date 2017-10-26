@@ -1,0 +1,44 @@
+﻿
+@model   IEnumerable<uh365898_db.Domain.Entities.Product>
+
+
+@{
+    ViewBag.Title = "УПР: Материалы";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" type="text/css" href="~/Content/css/jquery.dataTables.css">
+<link rel="stylesheet" type="text/css" href="~/Content/css/dataTables.responsive.css">
+
+
+
+@{ Html.RenderAction("Breadcr", "Product"); }
+
+<div class="social-box">
+    <div class="header"><span class="icon32  icon-arrowstop-e"></span></div>
+</div>
+
+<div class="rsidebar span_1_of_left">
+
+    <section class="sky-form">
+        <h4><a href="/Product/Shop">Все &nbsp; производители</a> </h4>
+
+        <div class="scroll-pane">
+            <div id="categ">
+                @{ Html.RenderAction("Fabrica", "Product"); }
+            </div>
+
+        </div>
+
+
+    </section>
+</div>
+
+<div class="cont span_2_of_3">
+
+
+
+
+
+    @{ Html.RenderAction("Showgood", "Product"); }
+</div>

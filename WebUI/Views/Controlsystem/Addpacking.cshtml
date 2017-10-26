@@ -1,0 +1,72 @@
+﻿@model uh365898_db.Domain.Entities.Packing
+
+
+@{
+    ViewBag.Title = "УПР: Добавление упаковки товара";
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+<div>
+    <ul class="breadcrumb">
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Mainpage")">Главная</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Allpacking")">Упаковки товара</a><span class="divider">/</span>
+        </li>
+        <li>
+            <a href="#"> Добавление упаковки товара</a>
+        </li>
+    </ul>
+</div>
+
+<div class="row-fluid sortable ui-sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+
+            <h2><i class="icon-edit"></i> Добавление упаковки товара</h2>
+        </div>
+        <div class="box-content">
+
+            @using (Html.BeginForm("Addpacking", "Controlsystem", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+            {
+
+                <fieldset>
+
+                    <div class="control-group">
+                        @Html.ValidationSummary()
+
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-info"><p>@TempData["message"]</p></div>
+                        }
+                    </div>
+                    @Html.HiddenFor(x => x.PackingID)
+
+                    <div class="control-group">
+                        <label class="control-label">Название упаковки</label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.Name, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label">Единица измерения товара (шт., л, кг)</label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.Measure, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+                        </div>
+                    </div>
+
+
+
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary">Сохранить</button>
+                        <button class="btn">@Html.ActionLink("Отмена", "Alltechcharect")</button>
+                    </div>
+                </fieldset>
+
+
+            }
+        </div>
+    </div>
+</div>
+

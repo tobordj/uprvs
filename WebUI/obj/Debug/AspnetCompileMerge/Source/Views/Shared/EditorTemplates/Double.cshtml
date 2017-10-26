@@ -1,0 +1,2 @@
+﻿@model double?
+@Html.TextBox("", Model.HasValue ? Model.Value.ToString("#,##0.000#") : "")

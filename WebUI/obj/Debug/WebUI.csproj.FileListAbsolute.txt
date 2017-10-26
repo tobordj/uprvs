@@ -1,0 +1,326 @@
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\WebUI.dll.config
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\WebUI.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\WebUI.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Antlr3.Runtime.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\BotDetect.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\BotDetect.Web.UI.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Domain.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\EntityFramework.SqlServer.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\log4net.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.CSharp.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Moq.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Moveax.Mvc.ErrorHandler.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Newtonsoft.Json.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Ninject.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.ComponentModel.DataAnnotations.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Configuration.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Data.DataSetExtensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Data.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Data.Entity.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Drawing.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.EnterpriseServices.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.Extensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.Formatting.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.Primitives.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.WebRequest.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Numerics.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Abstractions.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.ApplicationServices.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.DataVisualization.Design.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.DataVisualization.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.DynamicData.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Entity.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Extensions.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Helpers.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Http.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Http.WebHost.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Mvc.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Optimization.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Providers.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Razor.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Routing.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Services.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Xml.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Xml.Linq.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\WebGrease.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Domain.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Antlr3.Runtime.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\EntityFramework.SqlServer.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\log4net.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Moq.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Newtonsoft.Json.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Ninject.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.Extensions.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.Formatting.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Net.Http.Primitives.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Helpers.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Http.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Http.WebHost.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Mvc.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Optimization.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Providers.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.Razor.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\EntityFramework.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\obj\Debug\WebUI.csproj.App.config
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\obj\Debug\WebUI.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\obj\Debug\WebUI.pdb
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Owin.dll
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\1_Все\Program\ASP\УПР_сайт_host\uh365898_db\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Program\All\uh365898_db\WebUI\bin\WebUI.dll.config
+D:\Program\All\uh365898_db\WebUI\bin\WebUI.dll
+D:\Program\All\uh365898_db\WebUI\bin\WebUI.pdb
+D:\Program\All\uh365898_db\WebUI\bin\Antlr3.Runtime.dll
+D:\Program\All\uh365898_db\WebUI\bin\BotDetect.dll
+D:\Program\All\uh365898_db\WebUI\bin\BotDetect.Web.UI.Mvc.dll
+D:\Program\All\uh365898_db\WebUI\bin\Domain.dll
+D:\Program\All\uh365898_db\WebUI\bin\EntityFramework.dll
+D:\Program\All\uh365898_db\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Program\All\uh365898_db\WebUI\bin\log4net.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.CSharp.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Program\All\uh365898_db\WebUI\bin\Moq.dll
+D:\Program\All\uh365898_db\WebUI\bin\Moveax.Mvc.ErrorHandler.dll
+D:\Program\All\uh365898_db\WebUI\bin\Newtonsoft.Json.dll
+D:\Program\All\uh365898_db\WebUI\bin\Ninject.dll
+D:\Program\All\uh365898_db\WebUI\bin\Owin.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.ComponentModel.DataAnnotations.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Configuration.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Data.DataSetExtensions.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Data.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Data.Entity.Design.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Drawing.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.EnterpriseServices.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.Extensions.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.Primitives.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.WebRequest.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Numerics.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Abstractions.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.ApplicationServices.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.DataVisualization.Design.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.DataVisualization.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.DynamicData.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Entity.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Extensions.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Helpers.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Http.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Mvc.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Optimization.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Providers.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Razor.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Routing.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Services.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Xml.dll
+D:\Program\All\uh365898_db\WebUI\bin\System.Xml.Linq.dll
+D:\Program\All\uh365898_db\WebUI\bin\WebGrease.dll
+D:\Program\All\uh365898_db\WebUI\bin\Domain.pdb
+D:\Program\All\uh365898_db\WebUI\bin\Antlr3.Runtime.pdb
+D:\Program\All\uh365898_db\WebUI\bin\EntityFramework.xml
+D:\Program\All\uh365898_db\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Program\All\uh365898_db\WebUI\bin\log4net.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Program\All\uh365898_db\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Program\All\uh365898_db\WebUI\bin\Moq.xml
+D:\Program\All\uh365898_db\WebUI\bin\Newtonsoft.Json.xml
+D:\Program\All\uh365898_db\WebUI\bin\Ninject.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.Extensions.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Net.Http.Primitives.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Helpers.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Http.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Mvc.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Optimization.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Providers.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.Razor.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Program\All\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Program\All\uh365898_db\WebUI\bin\ru\EntityFramework.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Program\All\uh365898_db\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Program\All\uh365898_db\WebUI\obj\Debug\WebUI.csproj.App.config
+D:\Program\All\uh365898_db\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Program\All\uh365898_db\WebUI\obj\Debug\WebUI.dll
+D:\Program\All\uh365898_db\WebUI\obj\Debug\WebUI.pdb
+D:\Program\All - копия\uh365898_db\WebUI\bin\WebUI.dll.config
+D:\Program\All - копия\uh365898_db\WebUI\bin\WebUI.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\WebUI.pdb
+D:\Program\All - копия\uh365898_db\WebUI\bin\Antlr3.Runtime.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\BotDetect.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\BotDetect.Web.UI.Mvc.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Domain.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\EntityFramework.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\log4net.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.CSharp.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Moq.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Moveax.Mvc.ErrorHandler.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Newtonsoft.Json.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Ninject.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Owin.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.ComponentModel.DataAnnotations.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Configuration.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Data.DataSetExtensions.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Data.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Data.Entity.Design.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Drawing.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.EnterpriseServices.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.Extensions.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.Primitives.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.WebRequest.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Numerics.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Abstractions.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.ApplicationServices.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.DataVisualization.Design.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.DataVisualization.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.DynamicData.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Entity.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Extensions.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Helpers.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Http.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Mvc.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Optimization.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Providers.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Razor.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Routing.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Services.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Xml.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Xml.Linq.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\WebGrease.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\Domain.pdb
+D:\Program\All - копия\uh365898_db\WebUI\bin\Antlr3.Runtime.pdb
+D:\Program\All - копия\uh365898_db\WebUI\bin\EntityFramework.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\log4net.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Moq.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Newtonsoft.Json.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\Ninject.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.Extensions.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Net.Http.Primitives.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Helpers.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Http.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Mvc.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Optimization.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Providers.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.Razor.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\EntityFramework.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Program\All - копия\uh365898_db\WebUI\obj\Debug\WebUI.csproj.App.config
+D:\Program\All - копия\uh365898_db\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Program\All - копия\uh365898_db\WebUI\obj\Debug\WebUI.dll
+D:\Program\All - копия\uh365898_db\WebUI\obj\Debug\WebUI.pdb
+D:\Program\All - копия\uh365898_db\WebUI\bin\Domain.dll.config
+D:\Program\All - копия\uh365898_db\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache

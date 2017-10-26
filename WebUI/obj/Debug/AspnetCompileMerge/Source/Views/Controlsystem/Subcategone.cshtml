@@ -1,0 +1,74 @@
+﻿@model uh365898_db.Domain.Entities.Categone
+
+@{
+    ViewBag.Title = "УПР: Добавление  категории товара";
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+<div>
+    <ul class="breadcrumb">
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Mainpage")">Главная</a> <span class="divider">/</span>
+        </li>
+        <li>
+            <a href="@Url.Content("~/Controlsystem/Allsubcategone")">Категории товара</a><span class="divider">/</span>
+        </li>
+        <li>
+            <a href="#"> Добавить категорию товара</a>
+        </li>
+    </ul>
+</div>
+
+<div class="row-fluid sortable ui-sortable">
+    <div class="box span12">
+        <div class="box-header well" data-original-title>
+
+            <h2><i class="icon-edit"></i> Добавление категории</h2>
+        </div>
+        <div class="box-content">
+
+            @using (Html.BeginForm("Subcategone", "Controlsystem", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+            {
+
+                <fieldset>
+
+                    <div class="control-group">
+                        @Html.ValidationSummary()
+
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-info"><p>@TempData["message"]</p></div>
+                        }
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Название категории</label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.Name, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label">Раздел категории</label>
+                        <div class="controls">
+                            @Html.EditorFor(x => x.SectionID, new { @type = "text", @class = "span6 typeahead", @id = "typeahead" })
+                             <span class="help-inline">1-Препресс,  2 -Пресс, 3-Постпресс</span>
+                        </div>
+                    
+                    </div>
+                   
+
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary">Сохранить</button>
+                        <button class="btn">@Html.ActionLink("Отмена", "Subcategone")</button>
+                    </div>
+                </fieldset>
+
+
+            }
+        </div>
+    </div>
+</div>
+
+
+

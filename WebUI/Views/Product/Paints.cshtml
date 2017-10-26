@@ -1,0 +1,144 @@
+﻿@model   IEnumerable<uh365898_db.Domain.Entities.Product>
+@{
+    ViewBag.Title = "УПР:Краски";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="span12">
+            <div class="stepmenu">
+                <ul class="breadcrumb">
+                    <li><a href="~/"><span title="Главная" class="icon  icon-home">​</span> Главная </a><span class="divider">/</span></li>
+                    <li><a href="@Url.Content("~/Product/Catalog")"> Каталог товаров </a> <span class="divider">/</span></li>
+                    <li class="active"> Краски</li>
+                </ul>
+            </div>
+        </div>
+      </div>
+
+
+    <div class="row">
+        <div class="span12">
+
+            
+            <div class="social-box">
+                <div class="header"><span class="icon32  icon-arrowstop-e"></span>Краски</div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+
+      
+
+            <div class="row">
+
+                <div class="projects">
+
+                    ​<div class="span6 element category01" data-category="category01">
+                        <div class="thumbnail">
+                            <div class="hover_img">
+                                <img style="width:135px; height:135px;" src="~/Content/themes/img/catalog/no_image.jpg" alt="" />
+
+                            </div>
+                            <div class="item_description">
+                                <h6><a href="@Url.Content("~/Для%20листовой%20офсетной%20печати")">Для листовой офсетной печати</a></h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="span6 element category02" data-category="category02">
+                        <div class="thumbnail">
+                            <div class="hover_img">
+                                ​<img style="width:135px; height:135px;" src="~/Content/themes/img/catalog/no_image.jpg" alt="" />
+
+                            </div>
+                            <div class="item_description">
+
+                                <h6><a href="@Url.Content("~/Металлизированные%20краски")">Металлизированные краски</a></h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    ​<div class="span6 element category03" data-category="category03">
+                        <div class="thumbnail">
+                            <div class="hover_img">
+                                <img style="width:135px; height:135px;" src="~/Content/themes/img/catalog/no_image.jpg" alt="" />
+
+                            </div>
+                            <div class="item_description">
+                                <h6><a href="@Url.Content("~/Пантоны")">Пантоны</a></h6>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span6 element category04" data-category="category04">
+                        <div class="thumbnail">
+                            <div class="hover_img">
+                                ​<img style="width:135px; height:135px;" src="~/Content/themes/img/catalog/no_image.jpg" alt="" />
+
+                            </div>
+                            <div class="item_description">
+                                <h6><a href="@Url.Content("~/Белила")">Белила</a></h6>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+ <div class="row-fluid">
+
+
+    <table id="example" class="display nowrap" cellspacing="0" width="95%">
+        <thead>
+            <tr>
+                <th>Сортировать по:</th>
+                <th>Название</th>
+                <th>Цена</th>
+                <th></th>
+            </tr>
+        </thead>
+
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td width="5%">
+                        @if (item.ImageData != null)
+                        {
+
+                            <a href="@Url.Action("Store", new { item.ProductID })"><img width="155" height="155" src="@Url.Action("GetImage", "Product", new { item.ProductID })" /></a>
+
+                        }
+                    </td>
+                    <td>
+                        <p class="shopname">@Html.ActionLink(item.Name, "Store", new { item.ProductID })</p>
+                        <p class="shopdescr">@item.Description</p>
+                        <p class="shopprodid"><span>Артикул:</span> @item.ProdcodeID</p>
+                        <p class="shopproducer"><span>Производитель:</span> @item.Producer.Name</p>
+                    </td>
+                    <td style="float:left">
+                        <p class="shopprice">@String.Format("{0:F}", item.Price) </p>
+                        @{Html.RenderAction("Prodcart", "Product", new { item.ProductID });}
+                        <p class="shopque"><a href="@Url.Content("~/Nav/Question/")" style=""><span title="Вопрос технологу" class="icon32  icon-contacts"></span></a></p>
+                    </td>
+                    <td width="5%"> </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+
+

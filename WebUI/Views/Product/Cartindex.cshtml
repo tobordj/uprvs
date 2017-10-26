@@ -1,0 +1,108 @@
+﻿@model uh365898_db.WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "";
+}
+
+@if (Model.Cart.ComputeTotalValue().ToString() == "0")
+{
+    <div class="row-fluid">
+
+         <div class="span12">
+            <p class="minicart">Корзина пуста</p>
+             <a class="minica" href="@Url.Action("Shop", "Product") ">Перейти в каталог</a>
+        </div>
+    </div>
+}
+
+
+else
+{
+
+            <div class="row-fluid">
+
+
+                <div class="span12">
+                    <table class="table table-condensed" width="95%">
+                        <thead class="table-mini">
+
+                            <tr>
+                                <th> </th>
+
+                                <th>Товар</th>
+                                <th>Цена</th>
+                                <th> </th>
+
+                            </tr>
+                        </thead>
+                        <tbody class="table-mini">
+                            @foreach (var line in Model.Cart.Lines)
+                    {
+                                <tr>
+                                    <td width="35%">
+                                        @if (line.Product.ImageData != null)
+                                {
+
+                                            <img width="70" height="70" src="@Url.Action("GetImage", "Product", new { line.Product.ProductID })" alt="" />
+
+
+
+                                }
+                                        @if (line.Product.ImageData == null)
+                                {
+                                            <div class="hover_img">
+                                                <p style="text-align: center;"><img style="align-content:center" width="70" height="70" src="~/Content/themes/img/no_image.jpg" alt="" /></p>
+
+                                            </div>
+                                }
+
+                                    </td>
+                                    <td width="40%">@line.Product.Name</td>
+                                    <td>@line.Quantity x @line.Product.Price</td>
+
+                                    <td>
+
+                                        @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                                {
+                                            @Html.Hidden("ProductId", line.Product.ProductID)
+                                            @Html.HiddenFor(x => x.ReturnUrl)
+                                            <input class="cartbutton5" type="submit" value="X" />
+                                }
+                                    </td>
+                                </tr>
+                    }
+                        </tbody>
+                        <tfoot class="table-mini">
+                            <tr>
+                                <td> </td>
+                                <td>Итого:</td>
+                                <td>@Model.Cart.ComputeTotalValue()</td>
+                                <td> </td>
+                            </tr>
+                        </tfoot>
+
+
+                    </table>
+                </div>
+                <div class="row-fluid">
+                    <div class="span2">
+                    </div>
+                    <div class="span8">
+                        <a class="minica" href="@Url.Action("Shop", "Product") ">Перейти в каталог</a>
+                        &nbsp;
+                        <div id="cartbutton2">
+                            <p class="cartbutton2">
+
+                                @Html.ActionLink("Перейти в корзину", "Index", "Cart", new { returnUrl = Request.Url.PathAndQuery }, null)
+                            </p>
+                        </div>
+
+                       
+                    </div>
+
+                </div>
+            </div>
+
+            }
+
+

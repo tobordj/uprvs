@@ -1,0 +1,273 @@
+﻿
+@model uh365898_db.WebUI.Models.ProductsListViewModel
+
+@{
+    ViewBag.Title = "УПР: главная";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!--MAIN CONTENT AREA-->
+<div class="row-fluid">
+    <div class="index-banner">
+        <div class="wmuSlider example1" style="height: 560px;">
+            <div class="wmuSliderWrapper">
+                <article style="position: relative; width: 100%; opacity: 1;">
+                    <div class="banner-wrap">
+                        <div class="slider-left">
+                            <img src="~/Content/themes/images/banner1.jpg" alt="" />
+                        </div>
+                        <div class="slider-right">
+
+                            <h2>Лучшие материалы</h2>
+                            <p>У НАС ВЫ НАЙДЕТЕ ЛУЧШИЕ МАТЕРИАЛЫ ПО ПРИЯТНЫМ ЦЕНАМ</p>
+                            <div class="btn"><a href="@Url.Content("~/Каталог")">Каталог</a></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </article>
+                <article style="position: absolute; width: 100%; opacity: 0;">
+                    <div class="banner-wrap">
+                        <div class="slider-left">
+                            <img src="~/Content/themes/images/banner2.jpg" alt="" />
+                        </div>
+                        <div class="slider-right">
+
+                            <h2>Доставка товара</h2>
+                            <p>Мы осуществляем бесплатную доставку товара по Харькову при сумме заказа от 1000 грн</p>
+                            <div class="btn"><a href="@Url.Content("~/Доставка")">Перейти</a></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </article>
+                <article style="position: absolute; width: 100%; opacity: 0;">
+                    <div class="banner-wrap">
+                        <div class="slider-left">
+                            <img src="~/Content/themes/images/banner3.jpg" alt="" />
+                        </div>
+                        <div class="slider-right">
+                            <h2>Смешивание пантонов</h2>
+                            <p>Высокое качество гарантируется электронным управлением дозирования и высокоточным контролем.</p>
+                            <div class="btn"><a href="@Url.Content("~/Смешивание_пантонов")">​Перейти</a></div>
+
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </article>
+
+            </div>
+            <a class="wmuSliderPrev">Previous</a><a class="wmuSliderNext">Next</a>
+            <ul class="wmuSliderPagination">
+                <li><a href="#" class="">0</a></li>
+                <li><a href="#" class="">1</a></li>
+                <li><a href="#" class="">2</a></li>
+
+            </ul>
+            <a class="wmuSliderPrev">Previous</a>
+            <a class="wmuSliderNext">Next</a>
+            <ul class="wmuSliderPagination">
+                <li><a href="#" class="">0</a></li>
+                <li><a href="#" class="">1</a></li>
+                <li><a href="#" class="">2</a></li>
+
+            </ul>
+        </div>
+      
+    </div>
+
+</div>
+    <div class="row-fluid">
+
+
+
+        <!--Каталог товаров из бд -->
+        <div id="options">
+            <div class="social-box">
+
+
+                <div class="header"><span class="icon32  icon-arrowstop-e"></span>Рекомендуем</div>
+
+
+            </div>
+        </div>
+
+
+
+
+
+        <div class="projects" style="left:0px;">
+
+            @foreach (var p in Model.Products)
+            {
+                Html.RenderPartial("ProductSummary", p);
+            }
+        </div>
+
+    </div>
+
+<p class=" =" style="margin-bottom: 40px;">
+<!-- Каталог товаров по производителям -->
+<div id="options">
+    <div class="social-box">
+
+
+        <div class="header"><span class="icon32  icon-arrowstop-e"></span>Каталог товара по производителям</div>
+
+
+    </div>
+</div>
+
+
+<div class="row-fluid">
+    <!-- portfolio_block -->
+    ​<div class="span3 element category01"  style="margin-left: 0px;">
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/Koru.png" alt=" gorizontal-align=" " " />
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Koru%20(Бельгия)">KORU (Бельгия) </a></h6>
+              
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                ​<img style="width:260px; height:135px; " src="~/Content/themes/img/companies/Bohmer_.png" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Bohmer%20(Китай)">Bohmer (Китай) </a></h6>
+                
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/Martinez_Ayala.jpg" alt="" />
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Martinez%20Ayala%20(Испания)">Martinez Ayala (Испания)</a></h6>
+               
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/ECS.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Ecs%20(Великобритания)">ECS (Великобритания)</a></h6>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row-fluid">
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/Pulse.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Pulse%20(Великобритания)">Pulse (Великобритания)</a></h6>
+               
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/Marks3Zet_.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Marks3Zet%20(Германия)">Marks3Zet (Германия)</a></h6>
+               
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/macdermind.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/MacDermind%20(Франция)">MacDermind (Франция)</a></h6>
+               
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/ContiTech.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/ContiTech%20(Германия)">ContiTech (Германия)</a></h6>
+               
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row-fluid">
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/chet.png" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Украина">Компания СНЕ.Т (Украина)</a></h6>
+               
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/Huber.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/HUBER%20(Германия)">HUBER (Германия)</a></h6>
+              
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:260px; height:135px;" src="~/Content/themes/img/companies/Prisco.jpg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Prisco%20(США)">Prisco (США)</a></h6>
+              
+            </div>
+        </div>
+    </div>
+    <div class="span3 element category01" >
+        <div class="thumbnail">
+            <div class="hover_img">
+                <img style="width:300px; height:135px;" src="~/Content/themes/img/companies/Phoenix.jpeg" alt="" />
+
+            </div>
+            <div class="item_description">
+                <h6><a href="~/Производители/Phoenix%20(Германия)">Phoenix (Германия)</a></h6>
+              
+            </div>
+        </div>
+    </div>
+
+</div>
+
+

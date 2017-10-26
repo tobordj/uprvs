@@ -1,0 +1,13 @@
+﻿@model uh365898_db.WebUI.Models.ShippingsOrderViewModel
+
+
+@{
+    ViewBag.Title = "Admin: Edit ";
+    Layout = "~/Views/Shared/_ControlsystemLayout.cshtml";
+}
+
+@foreach (var p in Model.Orders)
+{
+    Html.RenderPartial("Orderprod", p);
+}
+
